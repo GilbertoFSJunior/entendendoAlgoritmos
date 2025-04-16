@@ -1,5 +1,5 @@
 # entendendoAlgoritmos
-##Linguagem utilizada: JAVA
+## Linguagem utilizada: JAVA
 
 Modelo de Lógica - Pesquisa Binária
 1. Definir o Problema
